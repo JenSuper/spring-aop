@@ -1,0 +1,36 @@
+2019-03-23 14:56:08,160  INFO Version:21 - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 14:56:09,172  INFO SpringAopApplication:50 - Starting SpringAopApplication on LAPTOP-35I5BH1L with PID 54072 (E:\softs\myproject\spring-aop\target\classes started by jichao in E:\softs\myproject\spring-aop)
+2019-03-23 14:56:09,173  INFO SpringAopApplication:675 - No active profile set, falling back to default profiles: default
+2019-03-23 14:56:14,251  INFO TomcatWebServer:90 - Tomcat initialized with port(s): 8080 (http)
+2019-03-23 14:56:14,661  INFO ContextLoader:296 - Root WebApplicationContext: initialization completed in 5175 ms
+2019-03-23 14:56:15,203  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-23 14:56:15,698  INFO TomcatWebServer:204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-23 14:56:15,702  INFO SpringAopApplication:59 - Started SpringAopApplication in 8.603 seconds (JVM running for 14.431)
+2019-03-23 14:57:01,271  INFO DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2019-03-23 14:57:01,286  INFO DispatcherServlet:546 - Completed initialization in 15 ms
+2019-03-23 15:08:35,804  INFO Version:21 - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 15:08:36,229  INFO SpringAopApplication:50 - Starting SpringAopApplication on LAPTOP-35I5BH1L with PID 50256 (E:\softs\myproject\spring-aop\target\classes started by jichao in E:\softs\myproject\spring-aop)
+2019-03-23 15:08:36,230  INFO SpringAopApplication:675 - No active profile set, falling back to default profiles: default
+2019-03-23 15:08:39,750  INFO TomcatWebServer:90 - Tomcat initialized with port(s): 8080 (http)
+2019-03-23 15:08:40,122  INFO ContextLoader:296 - Root WebApplicationContext: initialization completed in 3715 ms
+2019-03-23 15:08:40,587  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-23 15:08:40,906  INFO TomcatWebServer:204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-23 15:08:40,911  INFO SpringAopApplication:59 - Started SpringAopApplication in 5.478 seconds (JVM running for 8.021)
+2019-03-23 15:08:59,277  INFO DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2019-03-23 15:08:59,289  INFO DispatcherServlet:546 - Completed initialization in 12 ms
+2019-03-23 15:09:27,511  INFO WebAspect:49 - requestURI /index
+2019-03-23 15:09:27,512  INFO WebAspect:50 - servletPath /index
+2019-03-23 15:09:27,512  INFO WebAspect:51 - remoteAddr 0:0:0:0:0:0:0:1
+2019-03-23 15:09:27,512  INFO WebAspect:52 - args [Ljava.lang.Object;@67880eb6
+2019-03-23 15:09:27,517  INFO HelloController:27 - info msg
+2019-03-23 15:09:27,517 ERROR HelloController:28 - error msg
+2019-03-23 15:37:17,921  INFO Version:21 - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 15:37:18,527  INFO SpringAopApplication:50 - Starting SpringAopApplication on LAPTOP-35I5BH1L with PID 55084 (E:\softs\myproject\spring-aop\target\classes started by jichao in E:\softs\myproject\spring-aop)
+2019-03-23 15:37:18,528  INFO SpringAopApplication:675 - No active profile set, falling back to default profiles: default
+2019-03-23 15:37:21,080  INFO TomcatWebServer:90 - Tomcat initialized with port(s): 8080 (http)
+2019-03-23 15:37:21,323  INFO ContextLoader:296 - Root WebApplicationContext: initialization completed in 2686 ms
+2019-03-23 15:37:21,820  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-23 15:37:22,157  INFO TomcatWebServer:204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-23 15:37:22,161  INFO SpringAopApplication:59 - Started SpringAopApplication in 4.752 seconds (JVM running for 7.228)
+2019-03-23 15:37:59,005  INFO DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2019-03-23 15:37:59,018  INFO DispatcherServlet:546 - Completed initialization in 13 ms
