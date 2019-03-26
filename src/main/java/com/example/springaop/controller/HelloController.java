@@ -21,6 +21,10 @@ public class HelloController {
 
     private static Logger logger = LoggerFactory.getLogger(HelloController.class);
 
+    /**a
+     * index
+     * @return
+     */
     @GetMapping("/index")
     public String indexController() {
         System.out.println("index");
